@@ -1,5 +1,9 @@
 Hi there~ Thank you for visiting.
 
+My answers are placed in two seperate repositories:
+- [ui-contacts](https://github.com/Yuan-EPAM/ui-contacts)
+- [api-contacts](https://github.com/Yuan-EPAM/api-contacts)
+
 Please follow these steps to retrieve source codes:
 
 ```
